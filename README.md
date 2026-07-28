@@ -3,7 +3,7 @@
 A cartographic map of Aotearoa New Zealand's electricity transmission network, built in ArcGIS Pro from LINZ and Transpower open data.
 
 <p align="center">
-  <img src="images/powerlines-nz.jpg" alt="New Zealand power lines map" width="100%">
+        <img src="powerlines-nz.jpg" alt="New Zealand power lines map" width="100%">
 </p>
 <!-- TODO: adjust the image path to wherever the hero image lives in this repo -->
 
