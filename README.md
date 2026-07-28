@@ -16,7 +16,7 @@ This map traces the high-voltage lines that carry electricity the length of the 
 ## The map
 
 <p align="center">
-  <img src="images/powerlines-nz.jpg" alt="New Zealand power lines map, full render" width="80%">
+        <img src="powerlines-nz.jpg" alt="New Zealand power lines map" width="100%">
 </p>
 
 <!-- TODO: optional — add detail crops (e.g. the Cook Strait HVDC link, or a dense urban grid) as extra images. -->
