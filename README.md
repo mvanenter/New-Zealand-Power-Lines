@@ -2,11 +2,6 @@
 
 A cartographic map of Aotearoa New Zealand's electricity transmission network, built in ArcGIS Pro from LINZ and Transpower open data.
 
-<p align="center">
-        <img src="powerlines-nz.jpg" alt="New Zealand power lines map" width="100%">
-</p>
-<!-- TODO: adjust the image path to wherever the hero image lives in this repo -->
-
 ## Overview
 
 This map traces the high-voltage lines that carry electricity the length of the country — from the hydro stations of the deep South, up through the HVDC link across Cook Strait, and out to the North Island's grid. The goal was a map that reads clearly at a glance: the network as infrastructure, set against the terrain it has to cross.
